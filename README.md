@@ -4,12 +4,12 @@
 
 **Многомодульный офлайн-помощник для личного учёта и планирования**
 
-[![Latest Release](https://img.shields.io/github/v/release/stuma467/tlt.xtamsw.budzhet?style=for-the-badge&color=4f8cff)](https://github.com/stuma467/tlt.xtamsw.budzhet/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/stuma467/tlt.xtamsw.budzhet/total?style=for-the-badge&color=7a4dff)](https://github.com/stuma467/tlt.xtamsw.budzhet/releases)
+[![Latest Release](https://img.shields.io/github/v/release/xtamsw/tlt.xtamsw.budzhet?style=for-the-badge&color=4f8cff)](https://github.com/xtamsw/tlt.xtamsw.budzhet/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/xtamsw/tlt.xtamsw.budzhet/total?style=for-the-badge&color=7a4dff)](https://github.com/xtamsw/tlt.xtamsw.budzhet/releases)
 [![RuStore](https://img.shields.io/badge/RuStore-скачать-4f8cff?style=for-the-badge)](https://www.rustore.ru/catalog/app/tlt.xtamsw.budzhet)
-[![Platform](https://img.shields.io/badge/platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/stuma467/tlt.xtamsw.budzhet/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/xtamsw/tlt.xtamsw.budzhet/releases/latest)
 
-[📥 Скачать APK](https://github.com/stuma467/tlt.xtamsw.budzhet/releases/latest) · [📱 RuStore](https://www.rustore.ru/catalog/app/tlt.xtamsw.budzhet) · [💬 Telegram](https://t.me/xtamsw) · [📢 Новости](https://t.me/xtamsw_apk)
+[📥 Скачать APK](https://github.com/xtamsw/tlt.xtamsw.budzhet/releases/latest) · [📱 RuStore](https://www.rustore.ru/catalog/app/tlt.xtamsw.budzhet) · [💬 Telegram](https://t.me/xtamsw) · [📢 Новости](https://t.me/xtamsw_apk)
 
 </div>
 
@@ -68,7 +68,7 @@
 ## 📥 Установка
 
 **Вариант 1 — APK с GitHub (рекомендуется):**
-1. Перейдите на страницу [последнего релиза](https://github.com/stuma467/tlt.xtamsw.budzhet/releases/latest).
+1. Перейдите на страницу [последнего релиза](https://github.com/xtamsw/tlt.xtamsw.budzhet/releases/latest).
 2. Скачайте файл `.apk` из вложений.
 3. Разрешите установку из неизвестных источников, если система попросит.
 4. Откройте APK и установите приложение.
